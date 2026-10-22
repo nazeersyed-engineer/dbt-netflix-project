@@ -1,0 +1,26 @@
+# Virtual Environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Environment variables & secrets
+.env
+
+# dbt artifacts
+target/
+dbt_packages/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
